@@ -1,7 +1,8 @@
-
+ 
 # Simple Interest Calculator
 
-This repository contains a Bash script to calculate simple interest.
+This is a shell script that calculates simple interest based on principal, rate, and time.
+
 
 ## How to use
 
